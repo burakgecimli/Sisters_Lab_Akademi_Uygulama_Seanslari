@@ -1,2 +1,2 @@
-# Sisters_Lab_Uygulama_Seanslari
- Sisters_Lab_Uygulama_Seanslari
+# Sisters_Lab_Akademi_Uygulama_Seanslari
+Sisters_Lab_Akademi_Uygulama_Seanslari

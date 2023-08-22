@@ -22,5 +22,9 @@ https://github.com/burakgecimli/Sisters_Lab_Akademi_Uygulama_Seanslari/assets/62
 https://github.com/burakgecimli/Sisters_Lab_Akademi_Uygulama_Seanslari/assets/62941438/a184093e-0894-437e-945b-2d253876bd07
 
 
+# Challenge 9 App Tanıtım Videosu
+https://github.com/burakgecimli/Sisters_Lab_Akademi_Uygulama_Seanslari/assets/62941438/1605f0e3-adc7-4cb3-95e6-15578373ecf6
+
+
 
 

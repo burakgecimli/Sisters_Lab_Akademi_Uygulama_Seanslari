@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">App2</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+    <string name="breaach">Tüm yetenekleriyle düşmanları sersemletmeyi amaçlayan bir ajan. Breach’in gözkamaştıran özelliği sayesinde duvarların içinden geçen bir patlama oluşturup düşmanları kör etmek mümkün. Benzer şekilde kullanılan artçı sarsıntı ile etki alanı içindeki düşmanlara hasar veriliyor. Fay hattı yeteneği, etki alanı ve alan hattı üstündeki tüm oyuncuları sarsarak sersemletiyor. Breach’in ultisi zelzele ise koni biçimindeki bir alanda düşmanları sarsıyor ve havaya savuruyor</string>
+
+    <string name="brimstone">Oyuna yeni başlayan herkesin ilk tercihi olması gereken bir ajan. Bunun nedeni yeteneklerinin hem kolay kullanılması, hem de gayet etkili olması. İlk olarak yakıcı özelliği sayesinde kısa süreliğine belli bir zemini alevle kaplıyor. Takıma hareket alanı sağlayan dumanlı hava sahası ile ayrı ayrı ya da eş zamanlı olarak üç duman bulutu atıyor. Yere bıraktığı kuvvet işareti sayesinde silahların atış hızını artırıyor. Ultisi uydu saldırısı ise belli bir alandaki düşmanlara lazerle yüksek miktarda hasar veriyor.</string>
+
+    <string name="cpyher">Düşmanın nerede olduğunu tespit etmek için doğmuş Cypher. Etkili şekilde kullanabilmek için bol antrenman isteyen ajanın siber kafes yeteneği sayesinde görüşü engelleyen ve düşmanı içine hapseden dairesel alanlar oluşturuluyor. Hedef alınan noktaya yerleştirilen gizli kamera sayesinde düşmanları gözlemlemek, hatta işaretleyici iğne atmak mümkün. Atıldığı noktadan karşıya hat çeken bubi tuzağı, yakalanan rakibi sarsıp görünür kılıyor. Ulti yeteneği nöron hırsızı ise ölen bir düşmanı kullanarak, adeta sorgulayarak diğer düşmanların konumunu ortaya çıkarıyor.</string>
+
+    <string name="jett">Oyundaki en hareketli karakter olan Jett’i kontrol edebilmek ve etkili kullanabilmek uzmanlık gerektiriyor. Ona hareket kabiliyeti veren özelliklerden hafifle ile havaya sıçramak, rüzgar gibi ile hareket edilen yöne ya da ileriye atılmak mümkün. Bu özellikler rakibin görüşünü engelleyen duman bulutu ile beraber kullanıldığında bir hayli etkili oluyor. Jett’in ultisi keskin fırtına ise ona fırlatılabilir beş bıçak veriyor. Bıçaklar tek tek ya da topluca atılabiliyor ve bir düşmanı öldürünce yenileniyor. Nişan alma kabiliyetine fazlasıyla güvenenler için ideal.</string>
+
+    <string name="omen">Karşı takımda bir Omen varsa huzur içinde mücadele etmeniz hiç kolay değil. Neden mi? Birincisi, duvarlardan geçen paranoya gölge atışı sayesinde düşmanları kör edebilmesi. İkincisi, düşmanları kör eden karanlık örtü (gölge küresi) fırlatabilmesi. Üçüncüsü, gizli adım sayesinde belli bir menzile kadar ileri doğru ışınlanabilmesi. Ve en önemlisi de gölgelerin içinden ultisi sayesinde haritanın istediği yerine ışınlanabilmesi. Işınlanma sesi duyulduğu an Omen’in nereden çıkacağı tam bir muamma!</string>
+
+    <string name="phoenix">Oynaması en eğlenceli karakterlerden biri Phoenix ancak onu etkili şekilde kullanmak için biraz pratik gerekiyor. Düellocu rolündeki bu karakterin ördüğü ateşten duvar ile hem görüş engelleniyor, hem de duvara temas eden düşmana hasar veriliyor. Sola ve sağa fırlatılabilen falso ile düşmanlar kısa süreliğine kör edilirken, atıldığı zeminde belli bir süre kalarak düşmana hasar veren yakar top düşmanı durdurmak için bire bir. Phoenix’i eğlenceli kılan yakardöner ultisi ise kontrol edilebilir bir klon yaratarak kısa süreliğine adeta iki kişilik oynamayı mümkün kılıyor.</string>
+
+    <string name="raze">Oyunun kapalı beta sürecinde en çok tartışma yaratan ajan Raze olmuştu. Bunun nedeni ise Valorant’ın temel yapısına aykırı özellikleri. Tamamı hasar vermeye yönelik yeteneklere sahip Raze’in patlayıcı çantası düşmana hasar verirken, kendisini yukarı fırlatıyor. Kullanım şekli kısıtlanan renk tesirli bomba ile düşmanlar kolayca avlanıyor. Gördüğü düşmana odaklanan ve vurulmadığı takdirde kolayca skor alabilen bombot yüzünden rakipler paniğe kapılabiliyor. Ultisi ise bir hamlede “ace” aldırabilen nefes kesen (roketatar) ki tüm bu özellikler bir araya geldiğinde oynaması en kolay karakterlerden biri sayılabilir Raze</string>
+
+    <string name="sage">Oyundaki en etkili destek ajanlarından biri, belki de birincisi. Öncelikle bariyer küresi yeteneği sayesinde buzdan bir duvar örerek koridorları kapatabiliyor. Zeminde etkili olan yavaşlatan küre ile geçiş yollarını buzla kaplıyor. Hem kendi, hem de takım arkadaşları üzerinde kullanabildiği can küresi ile iyileştirme sağlıyor. En çarpıcı yeteneği diriliş sayesinde ise ölen bir takım arkadaşının cesedini hedef alarak onu yeniden hayata döndürüyor.</string>
+
+</resources>

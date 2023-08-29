@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <group android:checkableBehavior="single">
+        <item
+            android:icon="@drawable/baseline_settings_24"
+            android:id="@+id/firstFragment"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:title="Valorant Characters"/>
+        <item
+            android:icon="@drawable/baseline_settings_24"
+            android:id="@+id/secondFragment"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:title="Cs Go Characters" />
+    </group>
+
+
+
+
+</menu>

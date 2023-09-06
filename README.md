@@ -26,7 +26,7 @@ https://github.com/burakgecimli/Sisters_Lab_Akademi_Uygulama_Seanslari/assets/62
 https://github.com/burakgecimli/Sisters_Lab_Akademi_Uygulama_Seanslari/assets/62941438/1605f0e3-adc7-4cb3-95e6-15578373ecf6
 
 # Challenge 10 App Tanıtım Videosu
-https://github.com/burakgecimli/Sisters_Lab_Akademi_Uygulama_Seanslari/assets/62941438/9cf96598-ae2a-4018-a526-f049749117db
+https://github.com/burakgecimli/Sisters_Lab_Akademi_Uygulama_Seanslari/assets/62941438/a821ab7e-61eb-4dd1-992a-49f681a5dd60
 
 
 
